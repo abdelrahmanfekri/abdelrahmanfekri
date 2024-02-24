@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Hatmaak](https://hatmaak.com)
 
-- 💬 Ask me about **Python, Django, JavaScript, React Js, Next Js, Express**
+- 💬 Ask me about **Python, Django, Java, Spring Boot, JavaScript, React Js, Next Js, Express**
 
 - 📫 How to reach me **abdelrahmanfekri49@gmail.com**
 
