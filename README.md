@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Fekri</h1>
-<h3 align="center">As a Computer Scientist and Engineer, I specialize in Software Development and Full Stack Development, with a keen interest in AI. My journey began at the German University in Cairo, where my academic excellence earned me a full scholarship. My professional experience spans roles at Onpassive and Bld ai, where I've honed my skills in Python, Java, JavaScript, Django, and React JS, among others. My work in financial analysis and health monitoring through facial expressions showcases my versatility and commitment to leveraging technology for improvement and innovation. I'm passionate about creating scalable, efficient solutions that address real-world problems.</h3>
-
+<h3 align="center">Software Engineer focused on AI and Full Stack Development. I build practical solutions that combine artificial intelligence with robust engineering, from scalable video platforms to intelligent chatbots. With experience at OnPassive, Bld.ai, and now Treyd.io and Lyrise.ai, I specialize in creating efficient systems using Python, JavaScript, and modern frameworks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanfekri&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanfekri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfekri" alt="abdelrahmanfekri" /></a> </p>
