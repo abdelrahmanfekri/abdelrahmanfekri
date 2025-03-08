@@ -16,7 +16,7 @@ Passionate about building AI-driven applications and scalable systems. From inte
 ---
 
 ### 📌 Featured Projects
-#### 🔹 [Femto AI](https://github.com/abdelrahmanfekri/FemtoAI) - AI-Powered Customer Support SaaS
+#### 🔹 [Femto AI](https://femto-ai.vercel.app/) - AI-Powered Customer Support SaaS
 - **Technologies:** FastAPI, GraphQL, Redis, LLMs, Next.js, AWS
 - **Features:** AI-driven chatbot, multi-channel support (WhatsApp, Facebook), NLP optimization
 
