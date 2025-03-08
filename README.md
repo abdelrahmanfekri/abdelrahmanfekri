@@ -6,14 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Playdate](https://playdate.fun)
-
-- 🌱 I’m currently learning **Flutter, Unity**
-
-- 👯 I’m looking to collaborate on [AntiOxida](https://antioxida.com)
-
-- 🤝 I’m looking for help with [Hatmaak](https://hatmaak.com)
-
+- 🔭 I’m currently working on [Treyd](https://treyd.io)
+- 
 - 💬 Ask me about **Python, Django, Java, Spring Boot, JavaScript, React Js, Next Js, Express**
 
 - 📫 How to reach me **abdelrahmanfekri49@gmail.com**
