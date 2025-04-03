@@ -6,11 +6,11 @@ Passionate about building AI-driven applications and scalable systems. From inte
 ---
 
 ### 🔥 About Me
-- 💻 **Currently working at:** [Treyd.io](https://treyd.io) | [Lyrise](https://lyrise.ai)  
+- 💻 **Currently working at:** [Treyd.io](https://treyd.io)  
 - 🧠 **Expertise in:** Python, JavaScript, Django, FastAPI, Spring Boot, React, Next.js, GraphQL  
 - 🤖 **AI & ML Focus:** Machine Learning, Deep Learning, NLP, LLM Integration  
 - ☁️ **Cloud & DevOps:** AWS, GCP, Hasura, Docker, Redis, PostgreSQL  
-- 🏆 **Past Experience:** Onpassive, Bld.ai  
+- 🏆 **Past Experience:** Onpassive, Bld.ai
 - 🎯 **Open to collaborations** on AI, ML, and scalable web projects!
 
 ---
